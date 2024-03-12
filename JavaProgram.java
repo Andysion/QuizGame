@@ -2,7 +2,6 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 public class JavaProgram{
     public static void main(String[]args){
-        JavaProgram newJavaProgram = new JavaProgram();
         QuizGame newQuizGameProgram = new QuizGame();
 
         //Intro
